@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-🔭 I’m currently working on JPMC Tech Connect prework.
-🌱 I’m currently learning Javascript.
+\n🔭 I’m currently working on JPMC Tech Connect prework.
+\n🌱 I’m currently learning Javascript.
 👯 I’m looking to collaborate on nothing outside of work at the moment.
 🤔 I’m looking for help with finiding more similarities between Python and Javascript.
 💬 Ask me about my time at Ohio State as a Software 2 grader.
