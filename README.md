@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+🔭 I’m currently working on JPMC Tech Connect prework.
+🌱 I’m currently learning Javascript.
+👯 I’m looking to collaborate on nothing outside of work at the moment.
+🤔 I’m looking for help with finiding more similarities between Python and Javascript.
+💬 Ask me about my time at Ohio State as a Software 2 grader.
+📫 How to reach me: hphmbeast@gmail.com
+😄 Pronouns: she/her/hers
+⚡ Fun fact: I used to know the entire X-Men: First Class script.
+
 <!--
 **blanc17/blanc17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
